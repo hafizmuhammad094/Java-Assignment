@@ -1,9 +1,1 @@
-Task,Program Name,Description
-Q1,percentagecalculator.java,Calculates percentage based on obtained vs. total marks.
-Q2,areaofcircle.java,Computes the Area and Circumference of a circle.
-Q3,discountedprice.java,Finds the final price after a percentage discount.
-Q4,originalprice.java,Reverses a discount to find the original sticker price.
-Q5,calculatepower.java,Electrical Power calculation (P=V×I).
-Q6,trapezoid.java,Calculates the area of a trapezoid using parallel sides.
-Q7,evenorodd.java,Uses the modulus operator to check if a number is Even or Odd.
-Q8,areaoftriangle.java,Calculates area using Heron’s Formula for 3 known sides.
+This repository features a comprehensive suite of Java-based utility programs designed to solve fundamental mathematical, financial, and physics-oriented problems. The collection includes practical tools for calculating academic percentages, determining circle properties like area and circumference, and performing retail price adjustments such as finding discounted totals or reversing calculations to identify original costs. Additionally, the project incorporates scientific scripts to calculate electrical power consumption in Watts and geometric computations for finding the area of trapezoids and triangles—the latter of which utilizes Heron’s Formula for precise results based on side lengths. To round out the logical applications, an integer-checking utility is included to categorize numbers as even or odd. Collectively, these programs demonstrate a strong grasp of Java syntax, user input handling, and the application of diverse mathematical formulas in a programming environment.
